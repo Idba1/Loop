@@ -27,3 +27,19 @@ for (var i = 0; i < numbers.length; i++){
     var number = numbers[i];
     console.log(number);
 }
+
+
+
+
+
+
+
+
+var items = ['pen', 'mouse', 'book', 'laptop', 'watch'];
+for(var i = 0; i < items.length; i++){
+    if(item==items[1]){
+        break;
+    }
+    var item = items[i];
+    console.log(item);
+}
