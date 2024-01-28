@@ -9,12 +9,12 @@ for (var i = 0; i < numbers.length; i++){
 
 
 
-var items = ['pen', 'mouse', 'book', 'laptop', 'watch'];
+/* var items = ['pen', 'mouse', 'book', 'laptop', 'watch'];
 for(var i = 0; i < items.length; i++){
-    if(item==items[1]){
+    if(item==items[3]){
         continue;
     }
     var item = items[i];
     console.log(item);
-}
+} */
 
